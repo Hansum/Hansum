@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Christian, an aspiring software / web developer based in cebu. Currently looking for my first job opportunity in the IT industry.
+I'm Christian, an aspiring software / web developer based in cebu. Currently a backend developer for Hiretrades.
 
 - 🌱 I’m currently learning - NextJS and Firebase
 - 📫 How to reach me - christianvargan@gmail.com
