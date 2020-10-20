@@ -2,7 +2,7 @@
 
 I'm Christian, an aspiring software / web developer based in cebu. Currently a backend developer for Hiretrades.
 
-- 🌱 I’m currently learning - NextJS and Firebase
+- 🌱 I’m currently learning - NextJS and Laravel
 - 📫 How to reach me - christianvargan@gmail.com
 - 🔭 Portfolio website -  christianvargan.now.sh
 <!--
